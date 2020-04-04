@@ -1,6 +1,6 @@
 # Reddot Animation
 
-![Platform](https://img.shields.io/cocoapods/p/SquishButton.svg?style=flat)
+![Platform](https://img.shields.io/badge/platform-%20iOS%20-lightgrey.svg)
 [![Swift](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://developer.apple.com/swift)
 
 ## Overview
